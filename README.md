@@ -1,2 +1,2 @@
-# 8uc12mono8
+# 8uc1TOmono8
 ROS package to convert the ZR300 camera data from 8uc1 to mono8 for open_quadtree_mapping
